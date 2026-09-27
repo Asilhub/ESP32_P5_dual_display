@@ -1,0 +1,8 @@
+# Arduino build artefaktlari
+*.elf
+*.map
+*.d
+build/
+.vscode/
+
+*.zip
